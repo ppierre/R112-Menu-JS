@@ -135,16 +135,16 @@ https://developer.mozilla.org/fr/docs/Web/API/Element/classList#toggle
 
 ## Carrousel avec ancres
 
-Ajouter une liste de lien avec ancres vers les éléments du carousel
+Ajouter une liste de lien avec ancres vers les éléments du carrousel
 
 Tester le bon défilement au clic sur les ancres
 
-**Faire commit** : Carrousel avec tancre
+**Faire commit** : Carrousel avec ancres
 
 ## Carrousel avec btn sur les éléments
 
-Changer les CSS pour que les boutons gauche/droite soient sur le carousel (`position:absolute;`)
+Changer les CSS pour que les boutons gauche/droite soient sur le carrousel (`position:absolute;`)
 
-Tester que le scroll et les boutons (gauche/doite) fonctionnent toujours de façon satisfaisante.
+Tester que le scroll et les boutons (gauche/droite) fonctionnent toujours de façon satisfaisante.
 
 **Faire commit** : Carrousel avec btn absolue
